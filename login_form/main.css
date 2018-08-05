@@ -1,0 +1,17 @@
+* {
+  font-family: "Times New Roman";
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  vertical-align: middle;
+}
+
+form {
+  position: absolute;
+  width: 100%;
+  vertical-align: middle;
+}
